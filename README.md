@@ -9,13 +9,13 @@
 
 ---
 
-## 🎯 Objective
+## Objective
 
 > Explore multiple **image captioning models** and use their output to generate coherent, heartwarming **children's stories** via state-of-the-art LLMs.
 
 ---
 
-## 🖼️ Dataset
+## Dataset
 
 4 static illustrations depicting two brothers and their mother in a conflict-resolution arc:
 
@@ -30,7 +30,7 @@
 
 ---
 
-## 📦 Part 1 — Image Captioning
+## Part 1 — Image Captioning
 
 ### Models Explored
 
@@ -42,13 +42,13 @@
 | **Kosmos-2** | Good at activity detection | Over-interprets scenes |
 | **Florence-2 Flux Large** | Balanced identification + detail | Large model, limited emotional context |
 | **GIT Large TextCaps** | Excellent object + room recognition | Occasional scene misinterpretation |
-| **GPT-4.1** ⭐ | Extremely detailed, best storytelling | Requires API key (cost incurred) |
+| **GPT-4.1**  | Extremely detailed, best storytelling | Requires API key (cost incurred) |
 
-> ✅ **Final captions used for story generation are from GPT-4.1** — most accurate and contextually rich.
+>  **Final captions used for story generation are from GPT-4.1** — most accurate and contextually rich.
 
 ---
 
-## 📖 Part 2 — Story Generation
+##  Part 2 — Story Generation
 
 ### LLMs Used
 
@@ -69,7 +69,7 @@
 
 ---
 
-## 🛠️ Setup & Execution
+##  Setup & Execution
 
 ### 1. Install Dependencies
 
@@ -106,11 +106,11 @@ python scripts/04_mistral.py
 python scripts/05_claude_anthropic.py
 ```
 
-> 💡 **Stories are saved as `.txt` and `.json` in the `stories/` folder.**
+>  **Stories are saved as `.txt` and `.json` in the `stories/` folder.**
 
 ---
 
-## 📋 Model Comparison Summary
+##  Model Comparison Summary
 
 | Model | Provider | Cost | Quality | Speed | Best For |
 |-------|----------|------|---------|-------|----------|
@@ -129,7 +129,7 @@ python scripts/05_claude_anthropic.py
 
 ---
 
-## 📚 Stories Generated
+##  Stories Generated
 
 ---
 
