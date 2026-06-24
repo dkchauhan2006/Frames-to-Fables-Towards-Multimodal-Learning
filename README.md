@@ -327,6 +327,4 @@ Assignment6-240330/
 
 <div align="center">
 
-Made with ☕ by **Deepak Kumar Chauhan** &nbsp;|&nbsp; IIT Kanpur `240330`
-
 </div>
