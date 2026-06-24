@@ -4,9 +4,6 @@
 
 ### 👤 Deepak Kumar Chauhan &nbsp;|&nbsp; Roll No. `240330` &nbsp;|&nbsp; IIT Kanpur
 
-[![IIT Kanpur](https://img.shields.io/badge/IIT-Kanpur-003366?style=for-the-badge&logo=academia&logoColor=white)](https://www.iitk.ac.in/)
-[![Chemical Engineering](https://img.shields.io/badge/B.Tech-Chemical%20Engineering-orange?style=for-the-badge)](https://www.iitk.ac.in/che/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Expert-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/)
 
 </div>
 
