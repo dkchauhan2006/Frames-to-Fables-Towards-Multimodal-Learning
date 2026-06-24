@@ -1,4 +1,4 @@
-# <div align="center">Assignment 6 — Image Captioning & Story Generation</div>
+# <div align="center">Frames to Fables-Image Captioning & Story Generation</div>
 
 <div align="center">
 
